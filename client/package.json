@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fontsource/montserrat": "^4.5.1",
     "@tensorflow-models/coco-ssd": "^2.2.2",
     "@tensorflow/tfjs": "^3.9.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -10,6 +11,7 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-draggable": "^4.4.4",
     "react-scripts": "4.0.3",
     "react-webcam": "^6.0.0",
     "styled-components": "^5.3.1",
