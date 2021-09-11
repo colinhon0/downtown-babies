@@ -1,4 +1,5 @@
 import "./App.css";
+import Detection from "./components/detection";
 import {
   BrowserRouter as Router,
   Switch,
