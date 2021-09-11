@@ -21,3 +21,6 @@ npm install
 ```
 nodemon index.js
 ```
+
+
+https://www.figma.com/file/oZQUcVWyLC3RyqSJic7raD/Untitled?node-id=0%3A1
