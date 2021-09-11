@@ -7,6 +7,7 @@ import {
 
 import HomePage from './pages/HomePage';
 import ShopPage from './pages/ShopPage';
+import CameraPage from './pages/CameraPage';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Switch>
           <Route exact path='/' component={HomePage}></Route>
           <Route path='/shop' component={ShopPage}></Route>
+          <Route path='/camera' component={CameraPage}></Route>
         </Switch>
       </div>
     </Router>
