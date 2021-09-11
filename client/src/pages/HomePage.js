@@ -6,6 +6,10 @@ function Homepage() {
   return (
     <div>
       <Navbar />
+      <br />
+      <br />
+      <br />
+      <br />
       HomePage
     </div>
   );
